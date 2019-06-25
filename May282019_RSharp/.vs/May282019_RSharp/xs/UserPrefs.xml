@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8966A3E7-7C07-4C39-BD41-707E297AA34D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="May282019_RSharp/Code/Util.cs">
+    <Files>
+      <File FileName="May282019_RSharp/Main.cs" Line="95" Column="1" />
+      <File FileName="May282019_RSharp/CodeReferences/RequestCode.cs" Line="58" Column="10" />
+      <File FileName="May282019_RSharp/Code/Util.cs" Line="49" Column="10" />
+      <File FileName="May282019_RSharp/Code/DataBank.cs" Line="19" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="May282019_RSharp" expanded="True">
+            <Node name="May282019_RSharp" expanded="True">
+              <Node name="Code" expanded="True">
+                <Node name="Util.cs" selected="True" />
+              </Node>
+              <Node name="CodeReferences" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.May282019__RSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

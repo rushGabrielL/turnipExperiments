@@ -1,0 +1,11 @@
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/obj/x86/Debug/May282019_RSharp.csprojAssemblyReference.cache
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/obj/x86/Debug/May282019_RSharp.csproj.CoreCompileInputs.cache
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/bin/Debug/May282019_RSharp.exe
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/bin/Debug/May282019_RSharp.pdb
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/bin/Debug/RestSharp.dll
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/bin/Debug/RestSharp.xml
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/obj/x86/Debug/May282019_RSharp.csproj.CopyComplete
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/obj/x86/Debug/May282019_RSharp.exe
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/obj/x86/Debug/May282019_RSharp.pdb
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/bin/Debug/Newtonsoft.Json.dll
+/Users/gabriellantin/API Experiments/May282019_RSharp/May282019_RSharp/bin/Debug/Newtonsoft.Json.xml
